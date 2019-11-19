@@ -1,4 +1,4 @@
-[![robinhirt.com personal portfolio][header]](https://robinhirt.com)
+## robinhirt.com personal portfolio
 
 <div align="center">
     <i>Fork of the beautiful portfolio Jekyll theme portfolYOU.</i><br><br>
