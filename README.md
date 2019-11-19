@@ -1,10 +1,8 @@
-[![portfolYOU][header]](https://youssefraafatnasry.github.io/portfolYOU/)
+[![robinhirt.com personal portfolio][header]](https://robinhirt.com)
 
 <div align="center">
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i><br><br>
+    <i>Fork of the beautiful portfolio Jekyll theme portfolYOU.</i><br><br>
 </div>
-
-[![Preview][preview]](https://youssefraafatnasry.github.io/portfolYOU/)
 
 <div align="center">
     <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
