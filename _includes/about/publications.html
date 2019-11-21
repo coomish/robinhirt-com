@@ -1,0 +1,20 @@
+<h1><span data-i18n="skills.my_skills">Publications</span></h1>
+
+<div class="archive">
+  Feel free to connect on <a href="https://www.researchgate.net/profile/Robin_Hirt" class="social-link-item" target="_blank">Researchgate</a>.
+
+
+  <div class="timeline" id="timeline">
+    {% for publication in site.data.publications %}
+          <div class="archive-title">
+            <div class="archive-year">
+              <strong> {{ publication.ptitle }}</strong>
+            </div>
+            <div class="archive-year job-description">
+              {{ publication.authors }}<br />
+              {{ publication.date }}, {{ publication.info }}
+            </div>
+          </div>
+    {% endfor %}
+  </div>
+</div>

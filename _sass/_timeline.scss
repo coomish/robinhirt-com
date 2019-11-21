@@ -3,13 +3,19 @@
 	background-color: $light;
 	border-radius: 0 $rounded-borders $rounded-borders 0;
     padding: 5px 0;
-    
+	font-size: 12px;
+	h3 {
+		font-size: 19px;
+	}
+	h6 {
+		font-size: 14px;
+	}
 	&:after {
         // Left Border
 		content: '';
 		width: 4px;
 		height: 100%;
-		background-color: $primary;
+		background-color: #ccc;
 		position: absolute;
 		left: -4px;
 		top: 0;
@@ -33,9 +39,9 @@
         }
         
 		.content {
-			margin: 40px; 
-			padding-bottom: 20px;
-            border-bottom: 1px dashed $dark;
+			margin: 20px; 
+			padding-bottom: 10px;
+            border-bottom: 1px dashed #bbb;
 
             .date {
                 margin-top: -5px;
